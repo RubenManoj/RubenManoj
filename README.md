@@ -1,6 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Backend development with Java 21 & Spring Boot at Edstem Technologies<br>Building skills in Redis, Kafka, Elasticsearch, Docker, and cloud-native applications<br>Planning a car expense & mileage tracking mobile app<br>Optimizing my workspace and home tech setup<br><br>👯 I’m looking to collaborate on<br><br>Java/Spring Boot projects<br>Mobile app development (Android/ios)<br>Automotive tech and EV-related tools<br>Open-source developer utilities<br><br>🤝 I’m looking for help with<br><br>Advanced Spring Boot architecture and best practices<br>System design and scalable backend development<br>UI/UX design for personal app ideas<br>Career growth in software engineering<br><br>🌱 I’m currently learning<br><br>Enterprise Java development<br>Distributed systems and microservices<br>Docker, Kafka, Redis, and Elasticsearch<br>Software architecture and clean code practices<br><br>
+<div align="center">
 
+# 💫 About Me
+
+Backend Developer working with **Java 21** and **Spring Boot** at **Edstem Technologies** <br>
+Building skills in Redis, Kafka, Elasticsearch, Docker, and cloud-native applications <br>
+Exploring mobile app ideas, developer utilities, and practical automation tools <br>
+Open to collaborating on Java/Spring Boot, mobile apps, and open-source projects
+
+</div>
+
+---
 
 # 💻 Tech Stack:
 **Languages**
