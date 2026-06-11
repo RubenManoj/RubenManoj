@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-Backend Developer working with **Java 21** and **Spring Boot** at **Edstem Technologies** <br>
+Backend Developer working with **Java 21** and **Spring Boot**<br>
 Building skills in Redis, Kafka, Elasticsearch, Docker, and cloud-native applications <br>
 Exploring mobile app ideas, developer utilities, and practical automation tools <br>
 Open to collaborating on Java/Spring Boot, mobile apps, and open-source projects
